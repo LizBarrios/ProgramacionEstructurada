@@ -1,0 +1,6 @@
+/*Archivos
++Texto 
+    -salida
+    -entrada
++
+ */
